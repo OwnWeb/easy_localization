@@ -1,0 +1,37 @@
+{
+    "title": "Bonjour",
+    "msg": "Bonjour {} dans le {} monde ",
+    "clickMe": "Clique moi",
+    "profile": {
+        "reset_password": {
+            "title": "Réinitialiser le mot de passe",
+            "username": "Nom d'utilisateur",
+            "password": "Mot de passe"
+        }
+    },
+    "clicked": {
+        "zero": "Tu as cliqué {} fois!",
+        "one": "Tu as cliqué {} fois!",
+        "two": "Tu as cliqué {} fois!",
+        "few": "Tu as cliqué {} fois!",
+        "many": "Tu as cliqué {} fois!",
+        "other": "Tu as cliqué {} fois!"
+    },
+    "amount": {
+        "zero": "Ton montant: {} ",
+        "one": "Ton montant: {} ",
+        "two": "Ton montant: {} ",
+        "few": "Ton montant: {} ",
+        "many": "Ton montant: {} ",
+        "other": "Ton montant: {} "
+    },
+    "switch": {
+        "male": "Salut mec ;) ",
+        "female": "Salut meuf :)",
+        "with_arg": {
+            "male": "Salut mec ;) {}",
+            "female": "Salut meuf :) {}"
+        }
+    },
+    "reset_locale": "Réinitialiser langue enregistrée"
+}

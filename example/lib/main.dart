@@ -12,6 +12,7 @@ void main() {
     child: MyApp(),
     supportedLocales: [
       Locale('en', 'US'),
+      Locale('fr', 'FR'),
       Locale('ar', 'DZ'),
       Locale('de', 'DE'),
       Locale('ru', 'RU')
